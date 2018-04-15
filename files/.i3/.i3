@@ -1,0 +1,1 @@
+/home/xiao/mydots/files/.i3
